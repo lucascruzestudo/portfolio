@@ -111,7 +111,7 @@ export function Hero() {
               </button>
 
               <a
-                href="/curriculo.pdf"
+                href={import.meta.env.BASE_URL + 'curriculo.pdf'}
                 download
                 className="inline-flex items-center justify-center gap-2 px-7 py-3 rounded-lg transition-all duration-300 border"
                 style={{
@@ -185,7 +185,7 @@ export function Hero() {
                 }}
               >
                 <img
-                  src="/photo.jpg"
+                  src={import.meta.env.BASE_URL + 'photo.jpg'}
                   alt="lucas cruz"
                   className="relative w-full h-full rounded-full object-cover object-center"
                   style={{ width: '100%', height: '100%', borderRadius: '9999px', display: 'block' }}
