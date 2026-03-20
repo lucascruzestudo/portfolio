@@ -13,7 +13,7 @@ import { ScrollToTop } from './components/ScrollToTop';
 export default function App() {
   useEffect(() => {
     // Set document metadata
-    document.title = 'Lucas Gomes Cruz | Desenvolvedor .NET Fullstack';
+    document.title = 'Lucas Gomes Cruz | Desenvolvedor Fullstack';
     const metaDescription = document.querySelector('meta[name="description"]');
     if (metaDescription) {
       metaDescription.setAttribute('content', 'Desenvolvedor Fullstack especializado em .NET, C#, CQRS e Clean Architecture. Transformo requisitos de negócio em soluções técnicas escaláveis.');
@@ -42,12 +42,12 @@ export default function App() {
   return (
     <>
       {/* Meta tags for SEO */}
-      <title>Lucas Gomes Cruz | Desenvolvedor .NET Fullstack</title>
+      <title>Lucas Gomes Cruz | Desenvolvedor Fullstack</title>
       <meta 
         name="description" 
         content="Desenvolvedor Fullstack especializado em .NET, C#, CQRS e Clean Architecture. Transformo requisitos de negócio em soluções técnicas escaláveis." 
       />
-      <meta property="og:title" content="Lucas Gomes Cruz | Desenvolvedor .NET Fullstack" />
+      <meta property="og:title" content="Lucas Gomes Cruz | Desenvolvedor Fullstack" />
       <meta 
         property="og:description" 
         content="Desenvolvedor Fullstack especializado em .NET, C#, CQRS e Clean Architecture. Transformo requisitos de negócio em soluções técnicas escaláveis." 
