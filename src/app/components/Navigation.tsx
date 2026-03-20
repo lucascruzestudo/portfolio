@@ -36,7 +36,7 @@ export function Navigation() {
           style={{ color: 'var(--brand)' }}
           aria-label="Voltar ao início"
         >
-          Lucas Gomes Cruz
+          lucas gomes cruz
         </button>
 
         {/* Desktop Navigation */}
