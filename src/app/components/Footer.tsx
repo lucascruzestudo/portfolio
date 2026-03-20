@@ -12,7 +12,7 @@ export function Footer() {
             color: 'var(--muted-text)'
           }}
         >
-          <span style={{ color: 'var(--brand)' }}>lgcdev.com</span> — feito com precisão técnica & atenção ao detalhe
+          <span style={{ color: 'var(--brand)' }}>Lucas Gomes Cruz</span> — feito com precisão técnica & atenção ao detalhe
         </p>
       </div>
     </footer>

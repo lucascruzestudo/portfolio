@@ -36,7 +36,7 @@ export function Navigation() {
           style={{ color: 'var(--brand)' }}
           aria-label="Voltar ao início"
         >
-          lgcdev.com
+          Lucas Gomes Cruz
         </button>
 
         {/* Desktop Navigation */}

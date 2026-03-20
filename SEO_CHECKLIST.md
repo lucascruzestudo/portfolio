@@ -19,7 +19,7 @@ Adicione estas tags no `index.html` ou via JavaScript:
 <meta property="og:url" content="https://portfolio.lgcdev.com">
 <meta property="og:image" content="https://portfolio.lgcdev.com/preview.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="LGCDEV | Portfólio">
+<meta name="twitter:title" content="Lucas Gomes Cruz | Portfólio">
 <meta name="twitter:description" content="Portfólio de desenvolvimento front-end com foco em React, TypeScript e design moderno.">
 <meta name="twitter:image" content="https://portfolio.lgcdev.com/preview.png">
 ```
@@ -50,7 +50,7 @@ Adicione dados estruturados para melhor indexação:
   "@type": "Person",
   "name": "Lucas Gomes Cruz",
   "url": "https://lucasgomescruz.dev",
-  "jobTitle": "Desenvolvedor .NET Fullstack",
+  "jobTitle": "Desenvolvedor Fullstack",
   "email": "contato@lgcdev.com",
   "sameAs": [
     "https://github.com/lucascruzestudo",

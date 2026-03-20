@@ -67,7 +67,7 @@ export function Hero() {
                 color: 'var(--brand2)'
               }}
             >
-              desenvolvedor .net fullstack
+              desenvolvedor fullstack
             </h2>
 
             {/* Tagline */}
