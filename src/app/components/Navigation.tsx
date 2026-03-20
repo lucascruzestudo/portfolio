@@ -36,7 +36,7 @@ export function Navigation() {
           style={{ color: 'var(--brand)' }}
           aria-label="Voltar ao início"
         >
-          lucas.dev
+          lgcdev.com
         </button>
 
         {/* Desktop Navigation */}

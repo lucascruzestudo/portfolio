@@ -5,8 +5,8 @@ export function Contact() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'lcs.gomes33@gmail.com',
-      link: 'mailto:lcs.gomes33@gmail.com'
+      value: 'contato@lgcdev.com',
+      link: 'mailto:contato@lgcdev.com'
     },
     {
       icon: Phone,

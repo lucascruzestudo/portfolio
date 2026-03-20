@@ -16,12 +16,12 @@ Adicione estas tags no `index.html` ou via JavaScript:
 
 ```html
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://lucasgomescruz.dev">
-<meta property="og:image" content="https://lucasgomescruz.dev/preview.png">
+<meta property="og:url" content="https://portfolio.lgcdev.com">
+<meta property="og:image" content="https://portfolio.lgcdev.com/preview.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Lucas Gomes Cruz | Desenvolvedor .NET Fullstack">
-<meta name="twitter:description" content="Desenvolvedor Fullstack especializado em .NET, C#, CQRS e Clean Architecture.">
-<meta name="twitter:image" content="https://lucasgomescruz.dev/preview.png">
+<meta name="twitter:title" content="LGCDEV | Portfólio">
+<meta name="twitter:description" content="Portfólio de desenvolvimento front-end com foco em React, TypeScript e design moderno.">
+<meta name="twitter:image" content="https://portfolio.lgcdev.com/preview.png">
 ```
 
 ### 2. Criar Imagem de Preview (OG Image)
@@ -51,7 +51,7 @@ Adicione dados estruturados para melhor indexação:
   "name": "Lucas Gomes Cruz",
   "url": "https://lucasgomescruz.dev",
   "jobTitle": "Desenvolvedor .NET Fullstack",
-  "email": "lcs.gomes33@gmail.com",
+  "email": "contato@lgcdev.com",
   "sameAs": [
     "https://github.com/lucascruzestudo",
     "https://www.linkedin.com/in/lucasgomescruz"
@@ -76,7 +76,7 @@ Adicione dados estruturados para melhor indexação:
 User-agent: *
 Allow: /
 
-Sitemap: https://lucasgomescruz.dev/sitemap.xml
+Sitemap: https://portfolio.lgcdev.com/sitemap.xml
 ```
 
 **public/sitemap.xml:**
