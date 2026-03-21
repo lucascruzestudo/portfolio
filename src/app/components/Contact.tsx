@@ -17,8 +17,8 @@ export function Contact() {
     {
       icon: Github,
       label: 'GitHub',
-      value: 'lucascruzestudo',
-      link: 'https://github.com/lucascruzestudo'
+      value: 'lucasgomescruz',
+      link: 'https://github.com/lucasgomescruz'
     },
     {
       icon: Linkedin,

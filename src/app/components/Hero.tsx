@@ -138,7 +138,7 @@ export function Hero() {
               </a>
 
               <a
-                href="https://github.com/lucascruzestudo"
+                href="https://github.com/lucasgomescruz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-7 py-3 rounded-lg transition-all duration-300 border"

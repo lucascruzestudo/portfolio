@@ -53,7 +53,7 @@ Adicione dados estruturados para melhor indexação:
   "jobTitle": "Desenvolvedor Fullstack",
   "email": "contato@lgcdev.com",
   "sameAs": [
-    "https://github.com/lucascruzestudo",
+    "https://github.com/lucasgomescruz",
     "https://www.linkedin.com/in/lucasgomescruz"
   ]
 }
